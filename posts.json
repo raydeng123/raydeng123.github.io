@@ -1,0 +1,22 @@
+[
+  {
+    "id": "welcome-to-my-blog",
+    "title": "Welcome to My Digital Space",
+    "excerpt": "An introduction to my personal blog. Discover the technologies, designs, and ideas I'll be exploring here in this new digital journey.",
+    "date": "2026-05-28",
+    "category": "Thoughts",
+    "tags": ["Intro", "Personal", "WebDev"],
+    "coverImage": "assets/welcome-cover.webp",
+    "readTime": "2 min read"
+  },
+  {
+    "id": "mastering-css-layout",
+    "title": "Mastering Modern CSS Layouts",
+    "excerpt": "Deep dive into modern CSS layouts, exploring Flexbox, CSS Grid, Custom Properties, and responsive techniques for high-end web applications.",
+    "date": "2026-05-27",
+    "category": "Tech",
+    "tags": ["CSS", "WebDev", "Design"],
+    "coverImage": "assets/css-cover.webp",
+    "readTime": "5 min read"
+  }
+]
